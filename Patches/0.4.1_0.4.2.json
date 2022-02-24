@@ -1,0 +1,148 @@
+{
+  "From": "0.4.1",
+  "To": "0.4.2",
+  "Hash": "arqdF+dtcmdK8ifKu6CD4H9ERcA",
+  "TotalSize": 343203,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:13:07.6124961Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:24.5126077Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:38.993898Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Purchasing.Common.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.8637127Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.8392827Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.PlayerPrefsEditor.Samples.SampleScene.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.8229104Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.1207637Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.9132481Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.2856271Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.6987291Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.6951281Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.Codeless.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:23.8429549Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.3100472Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.8435535Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.2862512Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.Stores.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:23.3535691Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.8396265Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:22.3198321Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:12:21.3425246Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2022-01-14T15:13:55.2206904Z",
+      "Size": 0
+    }
+  ]
+}

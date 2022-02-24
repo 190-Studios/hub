@@ -1,0 +1,176 @@
+{
+  "From": "0.4.6",
+  "To": "0.5.0",
+  "Hash": "1hRmNEHaq/dWcQNyhbqfwVKW1OE",
+  "TotalSize": 2886207,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:42:04.8035665Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:30.2312142Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:41.4857572Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Purchasing.Common.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.6418509Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.6288861Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.PlayerPrefsEditor.Samples.SampleScene.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.6219039Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.9121281Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.7216375Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.8572749Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:29.1046184Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.AppleStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:29.0836729Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.Codeless.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:29.9210443Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.8802144Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.6238988Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.8612635Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.Stores.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:29.6015192Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.6149221Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.8562769Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:41:28.3147273Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2022-02-18T19:42:30.9765291Z",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}

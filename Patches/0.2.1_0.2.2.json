@@ -1,0 +1,92 @@
+{
+  "From": "0.2.1",
+  "To": "0.2.2",
+  "Hash": "u/y1e/RnFsQDvmQn9cNwosCwmOY",
+  "TotalSize": 1691393,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:53:01.506324Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp-firstpass.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:39.4021201Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:49.5185486Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:38.7613174Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:39.0400894Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:38.8460923Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:37:38.6554738Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:52:38.3640059Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:37:39.1904574Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:37:39.5239198Z",
+      "Size": 0
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "thshub_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:37:39.7975947Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-11-24T17:53:30.4263818Z",
+      "Size": 0
+    }
+  ]
+}
